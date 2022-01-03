@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&family=Rubik:wght@300&display=swap');
+body{
+    background-color: rgb(246, 242, 246);
+}
+.kural_tit{
+    color: rgb(223, 50, 50);
+}
+.kural_exp{
+    color: rgb(223, 50, 50);
+}
+.card-header{
+    background-color:#F7F7F7;
+    border: none;
+}
+
+.chap_name{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 600;
+}
+
+.tit{
+    color: rgb(185, 62, 169);
+    font-family:Arial;
+}
+
+.card{
+    background-image: linear-gradient(to bottom,rgb(246, 244, 246),rgb(246, 219, 250));
+}
+.e_kural{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 650;
+}
+
+.icon{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
